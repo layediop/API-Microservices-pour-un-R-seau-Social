@@ -26,19 +26,19 @@ cd Projet_API
 #  Lancer chaque microservice
 
 ## Auth Service
-cd auth-service
-npm install
-npm start
+- cd auth-service
+- npm install
+- npm start
 
 ## Posts Service
-cd posts-service
-npm install
-npm start
+- cd posts-service
+- npm install
+- nnpm start
 
 ## Likes Service
-cd likes-service
-npm install
-npm start
+- cd likes-service
+- npm install
+- npm start
 
 # Fonctionnalités
 
