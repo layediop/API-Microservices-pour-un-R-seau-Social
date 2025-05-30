@@ -2,17 +2,6 @@
 
 Ce projet est une API scalable et modulaire pour un réseau social, organisée autour d’une architecture **microservices**. Il comprend trois services indépendants : **authentification**, **gestion des posts** et **gestion des likes**, chacun connecté à sa propre base MongoDB.
 
----
-
-##  Structure du projet
-
-Projet_API/
-│
-├── auth-service/ # Gestion des utilisateurs et de l'authentification
-├── posts-service/ # Gestion des publications
-├── likes-service/ # Gestion des likes sur les publications
-└── README.md # Documentation du projet
-
 
 ##  Technologies utilisées
 
