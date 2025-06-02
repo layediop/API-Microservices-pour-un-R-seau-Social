@@ -33,7 +33,7 @@ cd Projet_API
 ## Posts Service
 - cd posts-service
 - npm install
-- nnpm start
+- npm start
 
 ## Likes Service
 - cd likes-service
